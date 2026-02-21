@@ -1,5 +1,5 @@
 # Calculadora-Basica
-Calculadora Básica
+Calculadora Basica
 text
 def sumar(x, y):
 return x + y
