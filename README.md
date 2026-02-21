@@ -7,6 +7,6 @@ Este proyeto es una Calculadora Básica hecha en Python
 -Multiplicación
 -División
 
-##Como ejecutarlo
+## Como ejecutarlo
 1. Descarga el archivo
 2. Ejecutar en Python
